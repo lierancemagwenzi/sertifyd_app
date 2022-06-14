@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17474222909",
+    "project_id": "sertifyd-28edc",
+    "storage_bucket": "sertifyd-28edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17474222909:android:4b3fd0343e240eb02a2354",
+        "android_client_info": {
+          "package_name": "com.dynamicwow.sertifyd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17474222909-c16sau1tohgeaujidloc3i3f5hvmkr6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1SN2L6m4PCouaTQ-cEVl6d9uGZ1UIAbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17474222909-c16sau1tohgeaujidloc3i3f5hvmkr6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
